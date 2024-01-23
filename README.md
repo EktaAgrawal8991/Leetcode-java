@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EktaAgrawal8991
-- 👀 I’m interested in Java
+- 👀 I’m interested in solving code on Leetcode
 - 💞️ I’m looking to collaborate on Tools
 - 📫 How to reach me - aekta030@gmail.com
 
